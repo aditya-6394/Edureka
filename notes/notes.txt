@@ -1,0 +1,5 @@
+1. ORIENTATION SESSION:
+a. Installing VSCode
+b. Installing Node
+c. Installing GitBash
+d. Creating GitHub Account
